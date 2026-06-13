@@ -1,0 +1,9 @@
+crewai
+crewai_tools
+pandas
+langchain_community
+faiss-cpu
+fastapi
+uvicorn
+python-dotenv
+streamlit

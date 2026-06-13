@@ -56,7 +56,7 @@ load_dotenv()
 
 os.environ["OPEN_ROUTER_KEY"] = os.getenv("OPEN_ROUTER_KEY")
 os.environ["SERPER_API_KEY"] = os.getenv("SERPER_API_KEY")
-os.environ['HUGGINGFACEHUB_API_TOKEN'] = os.getenv('HF_TOKEN')
+# os.environ['HUGGINGFACEHUB_API_TOKEN'] = os.getenv('HF_TOKEN')
 os.environ['LITELLM_LOG'] = 'DEBUG'
 os.environ['OPENAI_API_BASE'] = 'https://openrouter.ai/api/v1'
 os.environ['OPENAI_BASE_URL'] = 'https://openrouter.ai/api/v1'
