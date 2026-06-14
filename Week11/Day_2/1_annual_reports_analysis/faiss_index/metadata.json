@@ -1,9 +1,9 @@
 {
   "total_chunks": 682,
   "embedding_dim": 384,
-  "creation_date": "2025-07-11T12:20:20.038881",
+  "creation_date": "2026-06-14T11:57:14.612606",
   "documents": [
-    "NASDAQ_AAPL_2023.pdf",
-    "NASDAQ_MSFT_2023.pdf"
+    "NASDAQ_MSFT_2023.pdf",
+    "NASDAQ_AAPL_2023.pdf"
   ]
 }
